@@ -110,6 +110,11 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
 
+
+.site-section.site-section--program {
+	padding:1.2em;
+
+}
 .site-section {
   padding: 3em 0; }
   @media (min-width: 768px) {
